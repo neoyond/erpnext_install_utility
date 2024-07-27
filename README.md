@@ -50,7 +50,7 @@ git clone https://github.com/neoyond/erpnext_install_utility.git
 ```
 2. navigate to the folder:
 ```
-cd erpnext_quick_install
+cd erpnext_install_utility
 ```
 3. Make the script executable
 ```
