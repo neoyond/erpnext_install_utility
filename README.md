@@ -46,7 +46,7 @@ cd /home/frappeuser
 
 1. Clone the Repo:
 ```
-git clone https://github.com/flexcomng/erpnext_quick_install.git
+git clone https://github.com/neoyond/erpnext_install_utility.git
 ```
 2. navigate to the folder:
 ```
